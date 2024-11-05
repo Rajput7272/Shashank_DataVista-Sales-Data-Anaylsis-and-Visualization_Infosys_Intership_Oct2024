@@ -1,5 +1,5 @@
 
-### 1. Data Operations
+# Data Operations
 
 **Use Case**: Learning to perform arithmetic and modulus operations, essential in scientific computing for array and matrix support, along with a broad set of high-level mathematical functions.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 2. Data Processing
+# Data Processing
 
 **Use Case**: Efficient manipulation, transformation, and analysis of data.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 3. Data Visualization
+# Data Visualization
 
 **Use Case**: Visualizing data to enhance understanding and presentation.
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 4. Statistical Data Visualization
+# Statistical Data Visualization
 
 **Use Case**: Creating visually appealing, statistically-focused plots with concise code.
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 5. Deep Learning Image Processing
+# Deep Learning Image Processing
 
 **Use Case**: Digitizing and executing image processing tasks using computer vision (deep learning with CNN frameworks/libraries).
 
@@ -104,7 +104,7 @@
 
 ---
 
-## 6. Deep Learning Video Processing
+# Deep Learning Video Processing
 
 **Use Case**: Digitizing and executing video processing tasks using computer vision (deep learning with CNN frameworks/libraries).
 
