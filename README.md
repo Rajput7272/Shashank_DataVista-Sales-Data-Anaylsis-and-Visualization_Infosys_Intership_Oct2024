@@ -1,8 +1,7 @@
-# Data Operations, Processing, and Visualization
 
-## Data Operations
+## 1. Data Operations
 
-**Use Case**: Learning how to perform arithmetic & modulus operations. These operations are widely used in scientific computing to support arrays and matrices, along with a large collection of high-level mathematical functions for data structure manipulation.
+**Use Case**: Learning to perform arithmetic and modulus operations, essential in scientific computing for array and matrix support, along with a broad set of high-level mathematical functions.
 
 - **Library Used**: NumPy
 
@@ -17,23 +16,23 @@
 
 ---
 
-## Data Processing
+## 2. Data Processing
 
-**Use Case**: Manipulating, transforming, and analyzing data.
+**Use Case**: Efficient manipulation, transformation, and analysis of data.
 
 - **Library Used**: Pandas
 
 **Codes Executed**:
-1. Reading a file (CSV, XLS, etc.)
+1. Reading files (CSV, XLS, etc.)
 2. Extracting column headings
-3. Updating existing column names
+3. Updating column names
 4. Data cleaning
 
 ---
 
-## Data Visualization
+## 3. Data Visualization
 
-**Use Case**: Visualizing data for better understanding and presentation.
+**Use Case**: Visualizing data to enhance understanding and presentation.
 
 - **Library Used**: Matplotlib
 
@@ -47,8 +46,76 @@
 7. Customization of Line Styles
 8. Saving a Plot
 9. Logarithmic Scale
-10. Plotting with Annotations (presentation-friendly)
+10. Plotting with Annotations
 
 ---
 
+## 4. Statistical Data Visualization
+
+**Use Case**: Creating visually appealing, statistically-focused plots with concise code.
+
+- **Library Used**: Seaborn
+
+**Codes Executed**:
+1. Bar Plot
+2. Box Plot
+3. Boxen Plot
+4. Cat Plot
+5. Count Plot
+6. FacetGrid
+7. Heatmap
+8. Histogram
+9. Joint Plot
+10. KDE Plot
+11. Line Plot
+12. Pair Plot
+13. Pair + Grid Plot
+14. Point Plot
+15. Regression Plot
+16. Scatter Plot
+17. Strip Plot
+18. Swarm Plot
+19. Violin Plot
+
+---
+
+## 5. Deep Learning Image Processing
+
+**Use Case**: Digitizing and executing image processing tasks using computer vision (deep learning with CNN frameworks/libraries).
+
+- **Library Used**: OpenCV
+
+**Codes Executed**:
+1. Image Reading
+2. Image Cropping
+3. Image Resizing
+4. Image Rotation
+5. Gray-Scale Conversion
+6. Contour Detection
+7. Blurring
+8. Dilation and Erosion
+9. HSV Conversion
+10. Image Concatenation
+11. Thresholding
+12. Template Matching
+13. Histogram Analysis
+14. Canny Edge Detection
+15. Morphological Operations
+
+---
+
+## 6. Deep Learning Video Processing
+
+**Use Case**: Digitizing and executing video processing tasks using computer vision (deep learning with CNN frameworks/libraries).
+
+- **Library Used**: OpenCV
+
+**Codes Executed**:
+1. Video Streaming
+2. Video Stacking
+3. Video Saving
+4. FPS Calculation
+5. Multiple Video Streaming
+
+---
 
