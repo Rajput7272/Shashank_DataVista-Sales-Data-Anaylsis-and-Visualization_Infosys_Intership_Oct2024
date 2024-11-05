@@ -1,5 +1,5 @@
 
-## 1. Data Operations
+### 1. Data Operations
 
 **Use Case**: Learning to perform arithmetic and modulus operations, essential in scientific computing for array and matrix support, along with a broad set of high-level mathematical functions.
 
