@@ -1,47 +1,54 @@
-DATA OPERATIONS
+# Data Operations, Processing, and Visualization
 
-Use Case - Learning how to perform arithmatic & modulus operations. It's widely used in scitific computing which supports arrays and matrices along with large collection of high level mathematical functions to operate on these data structures.
+## Data Operations
 
-Library used - Numpy
+**Use Case**: Learning how to perform arithmetic & modulus operations. These operations are widely used in scientific computing to support arrays and matrices, along with a large collection of high-level mathematical functions for data structure manipulation.
 
-Codes Executed:
+- **Library Used**: NumPy
 
-1.Liner Regresstion
-2.Logistic Regresstion
-3.Euclidean Distance
-4.PCA
-5.K-Means Algorithm
-6.Naive Bayes Algorithm
-7.SVM
+**Codes Executed**:
+1. Linear Regression
+2. Logistic Regression
+3. Euclidean Distance
+4. Principal Component Analysis (PCA)
+5. K-Means Algorithm
+6. Naive Bayes Algorithm
+7. Support Vector Machine (SVM)
 
-DATA PROCESSING
+---
 
-Use Case - It's used for manipulatinng, transforming and analysing data.
+## Data Processing
 
-Library used - Pandas
+**Use Case**: Manipulating, transforming, and analyzing data.
 
-Codes Executed:
+- **Library Used**: Pandas
 
-1.Reading a File(csv, xlx, etc.)
-2.Executing and Extracting the Headings
-3.Updating existing column names
-4.Data Cleaning
+**Codes Executed**:
+1. Reading a file (CSV, XLS, etc.)
+2. Extracting column headings
+3. Updating existing column names
+4. Data cleaning
 
-DATA VISUALIZATION
+---
 
-Use Case - Used for visualizing the data for better understanding.
+## Data Visualization
 
-Library Used - MatPlotLib
+**Use Case**: Visualizing data for better understanding and presentation.
 
-Codes Executed:
+- **Library Used**: Matplotlib
 
-1.Simple Line Plot
-2.Scatter Plot
-3.Bar Plot
-4.Histogram
-5.Pie Chart
-6.Combination of Line and Bar plot
-7.Customiztion of Line Styles
-8.Saving a Plot
-9.Logarithmic Scale
-10.Plotting with Annotations
+**Codes Executed**:
+1. Simple Line Plot
+2. Scatter Plot
+3. Bar Plot
+4. Histogram
+5. Pie Chart
+6. Combination of Line and Bar Plot
+7. Customization of Line Styles
+8. Saving a Plot
+9. Logarithmic Scale
+10. Plotting with Annotations (presentation-friendly)
+
+---
+
+
